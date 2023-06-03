@@ -1,0 +1,2 @@
+# Static
+Ejercicio 187
